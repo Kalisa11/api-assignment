@@ -27,8 +27,6 @@ To run this project, you will need to add the following environment variables to
 `API_KEY`
 
 
-
-
 ## Run Locally
 
 Clone the project
@@ -55,6 +53,18 @@ Start the development server
   npm run dev
 ```
 
+## Demo
+
+https://www.loom.com/share/cd713931d9b44b23a4d2c3b06e73d7e2?sid=604d4bdd-44de-4e5a-b8f4-fd0ef022e45e
+
+## Tech Stack
+
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Axios] (https://axios-http.com/docs/intro)
+- [TailwindCSS](https://tailwindcss.com/)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Zustand] (https://docs.pmnd.rs/zustand/getting-started/introduction)
 
 ## Authors
 
